@@ -2,7 +2,7 @@
 ![PM 2.5 Data Visual](public/visual_data_pm2.5)
 
 This project implements time series forecasting for PM2.5 air quality data from Indore using three different boosting algorithms. The goal is to predict future PM2.5 levels to help monitor and understand air quality trends.
-
+![FLOW PROCESS](public/flowdiagram.png)
 ##  Dataset
 
 The project uses the `indore_air_quality_date_pm2_5.csv` dataset containing:
